@@ -128,6 +128,13 @@
     line-height: 11px;
     opacity: 0,5;
 }
+
+ .toptext3 {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    
+ }
  .bottomtext {
     width: 191px;
     height: 90px;
